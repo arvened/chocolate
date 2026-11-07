@@ -11,121 +11,49 @@
    "country": "PL",
    "type": "dark",
    "format": "bar",
-   "eur_kg": 106.67,
+   "eur_kg": 79.71,
    "shops": 6,
-   "products": 895
+   "products": 770
   },
   {
    "country": "PL",
    "type": "dark",
    "format": "bulk",
-   "eur_kg": 26.55,
-   "shops": 5,
-   "products": 194
-  },
-  {
-   "country": "PL",
-   "type": "milk",
-   "format": "bar",
-   "eur_kg": 79.68,
-   "shops": 6,
-   "products": 423
-  },
-  {
-   "country": "PL",
-   "type": "milk",
-   "format": "bulk",
-   "eur_kg": 18.67,
-   "shops": 4,
-   "products": 104
-  },
-  {
-   "country": "PL",
-   "type": "white",
-   "format": "bar",
-   "eur_kg": 22.74,
+   "eur_kg": 31.87,
    "shops": 3,
-   "products": 9
+   "products": 117
   },
   {
-   "country": "DE",
-   "type": "dark",
+   "country": "PL",
+   "type": "milk",
    "format": "bar",
-   "eur_kg": 53.66,
-   "shops": 6,
-   "products": 236
-  },
-  {
-   "country": "DE",
-   "type": "dark",
-   "format": "bulk",
-   "eur_kg": 23.47,
+   "eur_kg": 78.87,
    "shops": 4,
-   "products": 19
+   "products": 328
   },
   {
    "country": "DE",
-   "type": "milk",
+   "type": "dark",
    "format": "bar",
-   "eur_kg": 60.0,
-   "shops": 6,
-   "products": 127
-  },
-  {
-   "country": "DE",
-   "type": "milk",
-   "format": "bulk",
-   "eur_kg": 44.55,
-   "shops": 5,
-   "products": 24
-  },
-  {
-   "country": "DE",
-   "type": "white",
-   "format": "bar",
-   "eur_kg": 35.75,
-   "shops": 5,
-   "products": 36
-  },
-  {
-   "country": "DE",
-   "type": "white",
-   "format": "bulk",
-   "eur_kg": 16.95,
-   "shops": 5,
-   "products": 13
+   "eur_kg": 41.43,
+   "shops": 3,
+   "products": 172
   },
   {
    "country": "FR",
    "type": "dark",
    "format": "bar",
-   "eur_kg": 67.14,
-   "shops": 6,
-   "products": 108
-  },
-  {
-   "country": "FR",
-   "type": "dark",
-   "format": "bulk",
-   "eur_kg": 29.87,
+   "eur_kg": 73.75,
    "shops": 4,
-   "products": 47
+   "products": 95
   },
   {
    "country": "FR",
    "type": "milk",
    "format": "bar",
-   "eur_kg": 95.6,
-   "shops": 5,
-   "products": 109
-  },
-  {
-   "country": "FR",
-   "type": "milk",
-   "format": "bulk",
-   "eur_kg": 31.05,
+   "eur_kg": 69.3,
    "shops": 4,
-   "products": 20
+   "products": 70
   }
  ],
  "eurostat_hicp_yoy_pct": {
