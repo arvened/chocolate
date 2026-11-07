@@ -1,0 +1,109 @@
+{
+ "updated": "2026-11-06",
+ "unit": "EUR per kg, median",
+ "shops": {
+  "PL": 6,
+  "DE": 7
+ },
+ "groups": [
+  {
+   "country": "PL",
+   "type": "dark",
+   "format": "bar",
+   "eur_kg": 106.67,
+   "shops": 6,
+   "products": 894
+  },
+  {
+   "country": "PL",
+   "type": "dark",
+   "format": "bulk",
+   "eur_kg": 26.23,
+   "shops": 5,
+   "products": 193
+  },
+  {
+   "country": "PL",
+   "type": "milk",
+   "format": "bar",
+   "eur_kg": 79.68,
+   "shops": 6,
+   "products": 417
+  },
+  {
+   "country": "PL",
+   "type": "milk",
+   "format": "bulk",
+   "eur_kg": 18.67,
+   "shops": 4,
+   "products": 106
+  },
+  {
+   "country": "PL",
+   "type": "white",
+   "format": "bar",
+   "eur_kg": 20.03,
+   "shops": 3,
+   "products": 7
+  },
+  {
+   "country": "DE",
+   "type": "dark",
+   "format": "bar",
+   "eur_kg": 53.66,
+   "shops": 6,
+   "products": 236
+  },
+  {
+   "country": "DE",
+   "type": "dark",
+   "format": "bulk",
+   "eur_kg": 23.47,
+   "shops": 4,
+   "products": 19
+  },
+  {
+   "country": "DE",
+   "type": "milk",
+   "format": "bar",
+   "eur_kg": 60.0,
+   "shops": 6,
+   "products": 127
+  },
+  {
+   "country": "DE",
+   "type": "milk",
+   "format": "bulk",
+   "eur_kg": 44.55,
+   "shops": 5,
+   "products": 24
+  },
+  {
+   "country": "DE",
+   "type": "white",
+   "format": "bar",
+   "eur_kg": 35.75,
+   "shops": 5,
+   "products": 36
+  },
+  {
+   "country": "DE",
+   "type": "white",
+   "format": "bulk",
+   "eur_kg": 16.95,
+   "shops": 5,
+   "products": 12
+  }
+ ],
+ "eurostat_hicp_yoy_pct": {
+  "PL": -1.4,
+  "DE": 1.3,
+  "EU27": -0.6
+ },
+ "eurostat_ppi_yoy_pct": {
+  "PL": -0.8,
+  "DE": -6.0
+ },
+ "cocoa_futures_30d_pct": -6.1,
+ "policy": "policy.html"
+}
