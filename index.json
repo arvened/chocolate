@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "unit": "EUR per kg, median",
  "shops": {
   "PL": 6,
@@ -11,7 +11,7 @@
    "country": "PL",
    "type": "dark",
    "format": "bar",
-   "eur_kg": 80.64,
+   "eur_kg": 80.33,
    "shops": 5,
    "products": 772
   },
@@ -19,7 +19,7 @@
    "country": "PL",
    "type": "dark",
    "format": "bulk",
-   "eur_kg": 31.91,
+   "eur_kg": 31.79,
    "shops": 3,
    "products": 117
   },
@@ -27,9 +27,9 @@
    "country": "PL",
    "type": "milk",
    "format": "bar",
-   "eur_kg": 79.78,
-   "shops": 3,
-   "products": 326
+   "eur_kg": 78.66,
+   "shops": 4,
+   "products": 329
   },
   {
    "country": "DE",
@@ -84,6 +84,6 @@
   "Slovenia": -8.4,
   "Slovakia": -11.4
  },
- "cocoa_futures_30d_pct": -14.4,
+ "cocoa_futures_30d_pct": -11.3,
  "policy": "policy.html"
 }
