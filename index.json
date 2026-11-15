@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "unit": "EUR per kg, median",
  "shops": {
   "PL": 6,
@@ -29,7 +29,7 @@
    "format": "bar",
    "eur_kg": 79.34,
    "shops": 5,
-   "products": 335
+   "products": 353
   },
   {
    "country": "DE",
