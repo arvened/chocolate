@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "unit": "EUR per kg, median",
  "shops": {
   "PL": 7,
@@ -140,6 +140,6 @@
   "Slovenia": -8.4,
   "Slovakia": -12.1
  },
- "cocoa_futures_30d_pct": -5.6,
+ "cocoa_futures_30d_pct": -2.6,
  "policy": "policy.html"
 }
