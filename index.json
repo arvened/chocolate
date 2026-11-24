@@ -11,7 +11,7 @@
    "country": "PL",
    "type": "dark",
    "format": "bar",
-   "eur_kg": 77.3,
+   "eur_kg": 77.28,
    "shops": 6,
    "products": 561
   },
@@ -19,7 +19,7 @@
    "country": "PL",
    "type": "dark",
    "format": "bulk",
-   "eur_kg": 33.23,
+   "eur_kg": 33.22,
    "shops": 4,
    "products": 121
   },
@@ -27,7 +27,7 @@
    "country": "PL",
    "type": "milk",
    "format": "bar",
-   "eur_kg": 51.34,
+   "eur_kg": 51.33,
    "shops": 6,
    "products": 379
   },
@@ -35,7 +35,7 @@
    "country": "PL",
    "type": "milk",
    "format": "bulk",
-   "eur_kg": 26.69,
+   "eur_kg": 26.68,
    "shops": 3,
    "products": 88
   },
